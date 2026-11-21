@@ -1,6 +1,0 @@
-{
-  "name": "Paircart",
-  "description": "An app for ordering items between two users.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
