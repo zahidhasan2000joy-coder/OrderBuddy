@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+.kotlin/
+.build-outputs/
+/build/
+/local.properties
+/debug.keystore
+/dist/
+*-debug.log
+.DS_Store
